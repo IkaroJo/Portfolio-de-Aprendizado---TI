@@ -1,1 +1,149 @@
 # Portfolio-de-Aprendizado - TI
+
+# 📚 Portfolio de Aprendizado - TI
+ 
+Repositório documentando minha jornada de aprendizado em Tecnologia da Informação, desde diagnóstico de hardware até desenvolvimento de software e preparação para Engenharia de Software.
+ 
+## 🎯 Objetivo
+ 
+Documentar de forma prática e progressiva meu aprendizado nas diferentes áreas de TI, combinando estudo teórico com experiência prática (troubleshooting, labs, projetos).
+ 
+## 📂 Estrutura do Repositório
+ 
+```
+portfolio-aprendizado-ti/
+├── README.md (você está aqui)
+├── Fase_1_Hardware/
+│   ├── VDI_2.0/
+│   │   ├── Dia_01_Pensamento_Computacional.md
+│   │   ├── Dia_02_Ferramentas_Administrativas.md
+│   │   └── Dia_03_7_Cenarios_Diagnostico.md
+│   └── Portfolio_Casos_Reais/
+│
+├── Fase_2_Redes/
+│   ├── TCP_IP_Basico.md
+│   ├── DHCP_DNS.md
+│   ├── Roteamento.md
+│   └── Labs_Cisco_Packet_Tracer/
+│
+├── Fase_3_Office365/
+│   ├── Excel_Essencial.md
+│   └── Word_Essencial.md
+│
+├── Fase_4_AD_PowerShell/
+│   ├── Active_Directory_Setup.md
+│   ├── Group_Policy_Objects.md
+│   └── PowerShell_Basico.md
+│
+├── Fase_5_Linux_Zabbix/
+│   ├── Linux_Basico.md
+│   ├── Zabbix_Monitoring.md
+│   └── DNS_Avancado.md
+│
+└── Fase_6_Dev_Java/
+    ├── Java_Modulos.md
+    └── Projetos/
+```
+ 
+## 🚀 Roadmap de Estudo
+ 
+### Fase 1: Hardware & Diagnóstico (SET 2026)
+- ✅ VDI 2.0 - 8 dias de diagnóstico prático
+- Objetivo: Dominar troubleshooting de hardware
+- Status: Em progresso (Dias 1-3 completos)
+### Fase 2: Redes & CCNA (OUT-DEZ 2026)
+- Forum TelecomBR + Cisco Packet Tracer
+- CCNA Introduction to Networks
+- Objetivo: TCP/IP, roteamento, subnetting prático
+### Fase 3: Office 365 (JAN-FEV 2027)
+- Excel + Word (Wagner Cardoso)
+- Objetivo: Produtividade corporativa
+### Fase 4: Windows Server & AD (MAR-AGO 2027)
+- Active Directory (Eduardo Popovici)
+- PowerShell scripting
+- Ticketing systems (GLPI)
+### Fase 5: Linux & Monitoramento (SET 2027-MAR 2028)
+- Linux avançado (Forum TelecomBR)
+- Zabbix + Grafana
+- Preparação para estágio Dev
+### Fase 6: Desenvolvimento Java (JAN 2028+)
+- Java 10x (Fiasco)
+- LeetCode + Clean Code
+- Engenharia de Software (Estácio)
+---
+ 
+## 📖 Como usar este Repositório
+ 
+1. **Aprender**: Cada pasta contém documentação completa de um tópico
+2. **Praticar**: Inclui labs, exercícios e casos reais
+3. **Revisar**: Volte quando precisar relembrar um conceito
+## 🛠️ Tecnologias & Ferramentas
+ 
+- **Hardware**: HWiNFO64, CrystalDiskInfo, Memtest86
+- **Redes**: Cisco Packet Tracer, Forum TelecomBR
+- **Windows**: Active Directory, PowerShell, GLPI
+- **Linux**: Terminal, Zabbix, DNS
+- **Desenvolvimento**: Java, Git, LeetCode
+---
+ 
+## 📈 Progresso Atual
+ 
+| Fase | Tópico | Status | Progresso |
+|---|---|---|---|
+| 1 | Hardware (VDI 2.0) | 🔄 Em progresso | 37% (Dias 1-3/8) |
+| 2 | Redes + CCNA | ⏳ Planejado | 0% |
+| 3 | Office 365 | ⏳ Planejado | 0% |
+| 4 | AD + PowerShell | ⏳ Planejado | 0% |
+| 5 | Linux + Zabbix | ⏳ Planejado | 0% |
+| 6 | Dev Java | ⏳ Planejado | 0% |
+ 
+---
+ 
+## 📝 Formato de Documentação
+ 
+Cada módulo segue a estrutura:
+ 
+```
+## [TÓPICO]
+ 
+### Conceito
+[O que é, para que serve]
+ 
+### Prática
+[Como fazer, passo-a-passo]
+ 
+### Caso Real / Lab
+[Exemplo prático documentado]
+ 
+### Ferramentas
+[Softwares/Comandos usados]
+ 
+### Próximos Passos
+[O que aprender depois]
+```
+ 
+---
+ 
+## 🎓 Objetivo Final
+ 
+Ao completar este roadmap (até DEZ 2029):
+- ✅ Profissional de Suporte N1/N2 com experiência prática
+- ✅ Desenvolvedor Java com 1+ ano de estágio
+- ✅ Engenharia de Software formalizada
+- ✅ Pronto para concurso público ou carreira dev
+---
+ 
+## 📞 Contato & Links
+ 
+- LinkedIn: [Seu LinkedIn]
+- GitHub: Este repositório
+- E-mail: [Seu e-mail]
+---
+ 
+**Última atualização:** 21 de setembro de 2026  
+**Versão:** 1.0 - Fase 1 iniciada
+ 
+---
+ 
+*"O aprendizado nunca para. A prática transforma conhecimento em experiência."*
+ 
